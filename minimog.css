@@ -1,0 +1,19 @@
+
+.mainnav{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+
+.mainnav ul{
+    display: flex;
+    list-style-type: none ;
+
+}
+
+.mainnav ul li a {
+    text-decoration: none;
+    color: black;
+    margin: 10px;
+}

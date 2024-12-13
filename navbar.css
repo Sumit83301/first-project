@@ -1,0 +1,22 @@
+*
+{
+
+}
+ul{
+    display: flex;
+    justify-content: center;
+    /* border: 2px solid rebeccapurple ;  */
+    background-color: black;
+    padding: 10px;
+    
+}
+
+/* decended selector */
+ul li a{
+    text-decoration: none;
+    /* border: 2px solid red; */
+    margin: 10px;
+    color: yellow;
+    
+
+}
